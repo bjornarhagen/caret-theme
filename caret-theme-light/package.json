@@ -1,0 +1,31 @@
+{
+  "name": "caret-theme",
+  "displayName": "Caret Light Theme",
+  "description": "A theme in line with Caret's brand.",
+  "version": "0.0.1",
+  "publisher": "datahjelpen",
+  "icon": "caret-logo-light.png",
+  "galleryBanner": {
+    "color": "#ffffff",
+    "theme": "light"
+  },
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Caret Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/caret-theme-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "url": "https://gitlab.com/datahjelpen/public/extensions/caret-theme"
+  },
+  "license": "GPL-3.0"
+}
