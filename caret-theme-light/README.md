@@ -1,7 +1,5 @@
 # Caret Theme
 
-A theme in line with Caret's brand.
+Inspired by the caret.nvim theme for NeoVim (https://github.com/projekt0n/caret.nvim)
 
-![Theme preview](https://gitlab.com/datahjelpen/public/extensions/caret-theme/-/raw/main/preview-light.jpg)
-
-Made by Datahjelpen AS
+![Theme preview](https://raw.githubusercontent.com/bjornarhagen/caret-theme/main/preview.png)

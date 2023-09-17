@@ -1,10 +1,10 @@
 {
   "name": "vscode-polestar-theme",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "update:both": "npm run package:light && npm run publish:light && npm run package:dark && npm run publish:dark",
+    "update:both": "bun run package:light && bun run publish:light && bun run package:dark && bun run publish:dark",
     "package:light": "cd caret-theme-light && ../node_modules/.bin/vsce package",
     "publish:light": "cd caret-theme-light && ../node_modules/.bin/vsce publish",
     "package:dark": "cd caret-theme-dark && ../node_modules/.bin/vsce package",

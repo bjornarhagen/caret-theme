@@ -9,13 +9,13 @@ Inspired by the caret.nvim theme for NeoVim (https://github.com/projekt0n/caret.
 
 ### Light
 
-1. npm run package:light
-2. npm run publish:light
+1. bun run package:light
+2. bun run publish:light
 
 ### Dark
 
-1. npm run package:dark
-2. npm run publish:dark
+1. bun run package:dark
+2. bun run publish:dark
 
 ## Dynamic theme
 

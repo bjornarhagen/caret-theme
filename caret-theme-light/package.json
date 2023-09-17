@@ -1,12 +1,12 @@
 {
   "name": "caret-theme",
   "displayName": "Caret Light Theme",
-  "description": "A theme in line with Caret's brand.",
-  "version": "0.0.1",
-  "publisher": "datahjelpen",
+  "description": "A light and timeless theme, inspired by caret.nvim.",
+  "version": "0.1.1",
+  "publisher": "bjornarhagen",
   "icon": "caret-logo-light.png",
   "galleryBanner": {
-    "color": "#ffffff",
+    "color": "#cad8b1",
     "theme": "light"
   },
   "engines": {
@@ -25,7 +25,7 @@
     ]
   },
   "repository": {
-    "url": "https://gitlab.com/datahjelpen/public/extensions/caret-theme"
+    "url": "https://github.com/bjornarhagen/caret-theme"
   },
   "license": "GPL-3.0"
 }
